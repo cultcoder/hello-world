@@ -1,2 +1,2 @@
 # hello-world
-a cult repository
+a cult repository by myself
